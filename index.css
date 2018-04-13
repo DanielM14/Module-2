@@ -7,6 +7,11 @@ border-color: red;
 table{
   border-color: red;
 }
+p {
+    font-size: 30px;
+    font-family: Monospace;
+    color: red;
+  }
 body {
   background-image: url("images/white.jpg");
   min-height: 500px;
